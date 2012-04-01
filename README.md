@@ -8,7 +8,8 @@ for more information on how it works.
 Metadata Information
 --------------------------------------------------------------------------------
 
-* `dashboard/repository`: URI pointing at the chef-dashboard repository. (default [here](https://github.com/erikh/chef-dashboard.git))
+* `dashboard/repository`: URI pointing at the chef-dashboard repository.
+  (default [here](https://github.com/erikh/chef-dashboard.git))
 * `dashboard/revision`: revision to use (default HEAD)
 * `dashboard/host`: host to install on / report to (see below, default `server.local`)
 
